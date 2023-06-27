@@ -45,7 +45,7 @@ Configure your network access devices and the template of configuration of cisco
 
    ```bash
    git clone https://github.com/MetraneAbdelmounim/ApConfigPusher.git
-   ```a  &
+   ```
 
 2. Install the dependencies:
 
@@ -65,8 +65,8 @@ Configure your network access devices and the template of configuration of cisco
 
 
 ## Sample Output
-
-| Device Name| Interface            | Status    |
+                 10.190.100.192
+| Device Name| Port                 | Status    |
 | ---------  | -----------------    | --------- |
 | AP1        | GigabitEthernet1/0/1 | Pushed    |
 | AP2        | GigabitEthernet0/0/1 | Pushed    |

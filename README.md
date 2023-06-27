@@ -60,7 +60,7 @@ Configure your network access devices and the template of configuration of cisco
 5. Run the script:
 
    ```bash
-   python3 crc_error_v1.0.py
+   python3 script.py
    ```
 
 

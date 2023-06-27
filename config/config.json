@@ -1,0 +1,17 @@
+{
+    "ap" : [
+        "description Access_Point",
+        "switchport trunk native vlan 100",
+        "switchport trunk allowed vlan 10,20,30,40",
+        "switchport mode trunk",
+        "ip dhcp snooping trust",
+        "sh",
+        "no sh"
+    ],
+    "credential":{
+        "username": "cisco",
+        "password": "cisco"
+    
+    }
+    
+}
